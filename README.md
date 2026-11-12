@@ -13,6 +13,47 @@
 > 本包使用正式签名证书（v2 + v3），与早期 debug 签名版本不兼容。
 > 若之前装过旧版，请先卸载再安装（卸载会清空歌单与设置）。
 
+## 截图
+
+### 播放与歌词通知
+
+| 播放器 | 歌词通知（悬浮） |
+|---|---|
+| <img src="docs/screenshots/player.jpg" width="300"> | <img src="docs/screenshots/lyric-notification.jpg" width="300"> |
+
+| 横屏歌词通知（带译文） | 横屏歌词通知（原文） |
+|---|---|
+| <img src="docs/screenshots/lyric-notification-landscape-translation.jpg" width="420"> | <img src="docs/screenshots/lyric-notification-landscape.jpg" width="420"> |
+
+### 音乐管理
+
+| 歌曲列表 | 长按菜单 |
+|---|---|
+| <img src="docs/screenshots/library.jpg" width="300"> | <img src="docs/screenshots/song-menu.jpg" width="300"> |
+
+| 路径定位 | 全局扫描确认 |
+|---|---|
+| <img src="docs/screenshots/path-locate.jpg" width="300"> | <img src="docs/screenshots/global-scan.jpg" width="300"> |
+
+### 歌词匹配
+
+| 第一步：搜索候选 | 第二步：确认保存 |
+|---|---|
+| <img src="docs/screenshots/lyric-match-step1.jpg" width="300"> | <img src="docs/screenshots/lyric-match-step2.jpg" width="300"> |
+
+| 歌词偏移调整 |
+|---|
+| <img src="docs/screenshots/lyric-offset.jpg" width="300"> |
+
+### 音效与其它
+
+| 音效设置 | 设置弹窗 |
+|---|---|
+| <img src="docs/screenshots/effects.jpg" width="300"> | <img src="docs/screenshots/settings.jpg" width="300"> |
+
+| 定时关闭 | 歌曲通知 |
+|---|---|
+| <img src="docs/screenshots/sleep-timer.jpg" width="300"> | <img src="docs/screenshots/song-notification.jpg" width="300"> |
 ## 功能
 
 完整清单见 [musictage功能大全.md](musictage功能大全.md)，摘要如下：
