@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@mipmap/ic_launcher" android:enabled="true" android:shortcutId="db_management" android:shortcutShortLabel="@string/shortcut_db_management" android:shortcutLongLabel="@string/shortcut_db_management">
+        <intent android:targetPackage="com.example.musictage" android:action="android.intent.action.VIEW" android:targetClass="com.example.musictage.DatabaseManagementActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
